@@ -18,3 +18,8 @@ Adds and configures a few niceties to jupyter lab.
 * [Jupyterlab sublime keybindings](https://github.com/ryantam626/jupyterlab_sublime)
 * [One Dark Pro theme](https://github.com/johnnybarrels/jupyterlab_onedarkpro)
 
+#### Notes
+
+In the future need to Set up tagging system for managing versions.
+
+Last edited: 4/2/21, 2:19 PM
