@@ -9,6 +9,8 @@ RUN pip install \
 	pymc3 \
 	numpyro \
 	bambi \
+	funsor \
+	tensorflow_probability \
 	&& pip cache purge
 
 ## customize jupyterlab
